@@ -1,0 +1,9 @@
+r,Sizofreni,+12,Modernizm,Zulfi Livaneli,Pelur,Ucuncu Baski,36x24,Kardesimin Hikayesi,2014,Dogan Kitap,102,true
+r,Ask,+9,Cumhuriyet Akımı,Sabahattin Ali,Pelur,Ilk Baski,24x12,Kurk Mantolu Madonna,1998,Yapi Kredi,103,true
+r,Bilim Kurgu,+15,Cagdas Akim,J.K ROWLING,Kraft,Ucuncu Baski,24x12,Harry Potter Lanetli Cocuk,2016,Yapi Kredi,104,true
+r,Ask,+15,Modern Cumhuriyet Akim,Oguz ATAY,Pelur,Ikinci Baski,36x24,TUTUNAMAYANLAR,1976,Iletisim,105,true
+r,Ask,+10,Cagdas Akim,Zulfu Livaneli,Kraft,Ucuncu Baski,24x12,SERENAD,2011,Dogan Kitap,106,true
+a,Sozluk,Dr. ALI KEMAL BELVIRANLI,kraft,Ilk Baski,40x25,OSMANLI LUGATI,2000,Marifet Yayinlari,107,true
+a,Tarih,Kolektif,kraft,Yedinci Baski,40x25,SAHABILER,2013,Nesil YAYINLARI,108,true
+d,https://onlinelibrary.wiley.com/journal/15482634,Science,Alan J.Lesser,WILEY,4.cu Sayi,Aylik,Bilinmiyor,Ingilizce,POLYMER ENGINNERING AND SCIENCE,2018,Wiley Online Library,109,true
+d,https://www.jstor.org/journal/jappliedecology,Biyology,Brithis Ecological Society,JSTOR,Dokuzuncu Baski,Aylik,Bilinmiyor,Ingilizce,Applied Ecology,2010s,Brithis Ecological Society,110,true

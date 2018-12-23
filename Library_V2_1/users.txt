@@ -1,0 +1,23 @@
+﻿Oguzhan,Toklu,Bilgisayar Muhendisligi,user1,1
+Yavuz,Akin,Bilgisayar Muhendisligi,user2,2
+Berkan,Yildirim,Bilgisayar Muhendisligi,user3,3
+MuratCan,Yildiz,Bilgisayar Muhendisligi,user4,ogi
+BeyzaNur,Guney,Elektrik Elektronik Muhendisligi,user7,beyza
+Berfin,Yayci,Dis Hekimligi,user8,8
+Ahmet,Cetak,Makina Muhendisligi,user9,9
+Tugce,Ecmererol,Endustri Muhendisligi,user10,10
+Hilal,Cetak,Tip Fakultesi,user11,11
+Merve,Sonar,Tip Fakultesi,user12,12
+Ekin,Cerit,Endustru Muhendisligi,user13,13
+Dilara,Cagiran,Dis Hekimligi,user14,14
+Oguzhan,Cetin,Bilgisayar Muhendisligi,user15,ozibAbA
+Ahmet,Yilmaz,Makina Muhendisligi,user16,16
+Sarilarin,Yilmaz,Tip Fakultesi,user17,17
+Hasan Ali,Yilmaz,Endustri Muhendisligi,user18,18
+Aytac,Onturk,Bilgisayar Muhendisligi,user20,menzil
+Sakat,Berquan,Dis Hekimligi,user31,31
+ogito,toklu,Tip Fakultesi,user45,45
+Oguzhan,TOKLU,Makina Muhendisligi,ozibaba,1221
+Cihat,Unal,Endustri Muhendisligi,oguzhntklu33,oguzhan0633
+Oguzhan,TOKLU,Endustri Muhendisligi,user1122,1122
+Oguzhan,TOKLU,Endustri Muhendisligi,duerto01,01
